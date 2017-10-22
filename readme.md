@@ -1,6 +1,11 @@
+# Description
+
 Script that allows you to easily send venmo requests when getting food from grubhub.
 
-Roadmap:
+# Instructions
+copy paste the script into a chrome console when your on the checkout page of grubhub
+
+# Roadmap:
 * Clean up
 * Make chrome extension
 * Use a db or persistant storage for username saving
